@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/cloudNow/static/css/main.500cab6c.css",
-    "main.js": "/cloudNow/static/js/main.07a7c095.js",
+    "main.css": "/cloudNow/static/css/main.0d0b1b94.css",
+    "main.js": "/cloudNow/static/js/main.09316a8c.js",
     "static/js/787.9041e75a.chunk.js": "/cloudNow/static/js/787.9041e75a.chunk.js",
     "static/media/image 8.png": "/cloudNow/static/media/image 8.cdd5443fba98131f33f0.png",
     "index.html": "/cloudNow/index.html",
-    "main.500cab6c.css.map": "/cloudNow/static/css/main.500cab6c.css.map",
-    "main.07a7c095.js.map": "/cloudNow/static/js/main.07a7c095.js.map",
+    "main.0d0b1b94.css.map": "/cloudNow/static/css/main.0d0b1b94.css.map",
+    "main.09316a8c.js.map": "/cloudNow/static/js/main.09316a8c.js.map",
     "787.9041e75a.chunk.js.map": "/cloudNow/static/js/787.9041e75a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.500cab6c.css",
-    "static/js/main.07a7c095.js"
+    "static/css/main.0d0b1b94.css",
+    "static/js/main.09316a8c.js"
   ]
 }
