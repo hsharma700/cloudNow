@@ -1,0 +1,48 @@
+.headerMain {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.header {
+  width: 90%;
+  height: 120px;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+}
+
+.header .titleDiv {
+  span {
+    font-weight: bolder;
+  }
+  margin-left: 10px;
+  width: 60%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 37.1472px;
+  color: black;
+}
+
+.navDiv {
+  width: 80%;
+  display: flex;
+
+  nav {
+    width: 100%;
+    display: flex;
+    align-items: center;
+
+    a {
+      text-align: center;
+      font-weight: bold;
+      font-size: 20px;
+      line-height: 20px;
+      /* identical to box height */
+
+      color: #000000;
+    }
+    
+  }
+}
