@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/cloudNow/static/css/main.efbc4f1f.css",
+    "main.js": "/cloudNow/static/js/main.5b27431f.js",
+    "static/js/787.9041e75a.chunk.js": "/cloudNow/static/js/787.9041e75a.chunk.js",
+    "static/media/image 8.png": "/cloudNow/static/media/image 8.cdd5443fba98131f33f0.png",
+    "static/media/code-1 1.svg": "/cloudNow/static/media/code-1 1.563fe0fcebd855b1212ee5575b61b478.svg",
+    "index.html": "/cloudNow/index.html",
+    "main.efbc4f1f.css.map": "/cloudNow/static/css/main.efbc4f1f.css.map",
+    "main.5b27431f.js.map": "/cloudNow/static/js/main.5b27431f.js.map",
+    "787.9041e75a.chunk.js.map": "/cloudNow/static/js/787.9041e75a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efbc4f1f.css",
+    "static/js/main.5b27431f.js"
+  ]
+}
