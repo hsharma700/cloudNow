@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cloudNow/static/css/main.25ca5bfa.css",
+    "main.css": "/cloudNow/static/css/main.1cdc5129.css",
     "main.js": "/cloudNow/static/js/main.bc5bc8c5.js",
     "static/js/787.9041e75a.chunk.js": "/cloudNow/static/js/787.9041e75a.chunk.js",
     "static/media/image 8.png": "/cloudNow/static/media/image 8.cdd5443fba98131f33f0.png",
@@ -9,12 +9,12 @@
     "static/media/main5img3.png": "/cloudNow/static/media/main5img3.58f6bed545ce9001a070.png",
     "static/media/main5img8.png": "/cloudNow/static/media/main5img8.57cdd3e6ef69d3153dbd.png",
     "index.html": "/cloudNow/index.html",
-    "main.25ca5bfa.css.map": "/cloudNow/static/css/main.25ca5bfa.css.map",
+    "main.1cdc5129.css.map": "/cloudNow/static/css/main.1cdc5129.css.map",
     "main.bc5bc8c5.js.map": "/cloudNow/static/js/main.bc5bc8c5.js.map",
     "787.9041e75a.chunk.js.map": "/cloudNow/static/js/787.9041e75a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.25ca5bfa.css",
+    "static/css/main.1cdc5129.css",
     "static/js/main.bc5bc8c5.js"
   ]
 }
